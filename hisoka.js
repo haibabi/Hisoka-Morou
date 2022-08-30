@@ -2823,7 +2823,7 @@ let capt = `⭔ Title: ${judul}
 │⭔ ${prefix}tiktoknowm [url]
 │⭔ ${prefix}tiktokwm [url]
 │⭔ ${prefix}tiktokmp3 [url]
-│⭔ ${prefix}instagram [url]
+│⭔ ${prefix}instagram [url] ❌
 │⭔ ${prefix}twitter [url]
 │⭔ ${prefix}twittermp3 [url]
 │⭔ ${prefix}facebook [url]
@@ -2856,22 +2856,22 @@ let capt = `⭔ Title: ${judul}
 ┌──⭓ *Random Menu*
 │
 │⭔ ${prefix}coffe
-│⭔ ${prefix}quotesanime
-│⭔ ${prefix}motivasi
-│⭔ ${prefix}dilanquote
-│⭔ ${prefix}bucinquote
-│⭔ ${prefix}katasenja
-│⭔ ${prefix}puisi
+│⭔ ${prefix}quotesanime ❌
+│⭔ ${prefix}motivasi ❌
+│⭔ ${prefix}dilanquote ❌
+│⭔ ${prefix}bucinquote ❌
+│⭔ ${prefix}katasenja ❌
+│⭔ ${prefix}puisi ❌
 │⭔ ${prefix}couple
 │⭔ ${prefix}anime
 │⭔ ${prefix}waifu
 │⭔ ${prefix}husbu
 │⭔ ${prefix}neko
 │⭔ ${prefix}shinobu
-│⭔ ${prefix}waifus (nsfw)
-│⭔ ${prefix}nekos (nsfw)
-│⭔ ${prefix}trap (nsfw)
-│⭔ ${prefix}blowjob (nsfw)
+│⭔ ${prefix}waifus (nsfw) ❌
+│⭔ ${prefix}nekos (nsfw) ❌
+│⭔ ${prefix}trap (nsfw) ❌
+│⭔ ${prefix}blowjob (nsfw) ❌
 │
 └───────⭓
 
@@ -2930,9 +2930,9 @@ let capt = `⭔ Title: ${judul}
 
 ┌──⭓ *Ephoto Menu*
 │
-│⭔ ${prefix}ffcover
-│⭔ ${prefix}crossfire
-│⭔ ${prefix}galaxy
+│⭔ ${prefix}ffcover ❌
+│⭔ ${prefix}crossfire ❌
+│⭔ ${prefix}galaxy ❌
 │⭔ ${prefix}glass
 │⭔ ${prefix}neon
 │⭔ ${prefix}beach
@@ -3015,7 +3015,7 @@ let capt = `⭔ Title: ${judul}
 │⭔ ${prefix}ebinary
 │⭔ ${prefix}dbinary
 │⭔ ${prefix}styletext
-│⭔ ${prefix}smeme
+│⭔ ${prefix}smeme ❌
 │
 └───────⭓
 
